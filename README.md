@@ -1,6 +1,6 @@
 
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=Hello!&)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=Hello Bugs!&)
 
 <h1 align="center">
   In debug we trust🧑🏻‍💻
@@ -14,6 +14,7 @@
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
 </a>
 </p>
+
 ---
 
 <h2> 💽 &nbsp;About Me</h2>
