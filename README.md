@@ -9,10 +9,13 @@
 </a>
 <a href="https://www.instagram.com/spectualmusic">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
+<a href="https://www.kaggle.com/yifeibao">
+  <img height="50" src="https://github.com/user-attachments/assets/421de2a4-47eb-4b04-bc44-919376e6ac1d" />
 <a href="https://y.music.163.com/m/user?id=277384486">
   <img height="50" src="https://cdn.simpleicons.org/neteasecloudmusic/D43C33" />
 </a>
 </p>
+
 
 
 
@@ -27,7 +30,7 @@ name: Eric B
 located_in: Boston, MA
 education:
   [
-    "Master's in Computer Science",
+    "Master's in Computer Science",zw
     "Bachelor's in Artificial Intelligence",
   ]
 
