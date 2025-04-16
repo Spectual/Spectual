@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=Hello%20Bugs!&fontColor=DDDDDD)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=Hello%20Bugs!)
 
 <h1 align="center">
   In debug we trust🧑🏻‍💻
