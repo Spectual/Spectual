@@ -30,7 +30,7 @@ name: Eric B
 located_in: Boston, MA
 education:
   [
-    "Master's in Computer Science",zw
+    "Master's in Computer Science",
     "Bachelor's in Artificial Intelligence",
   ]
 
