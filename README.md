@@ -9,6 +9,8 @@
 </a>
 <a href="https://www.instagram.com/spectualmusic">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
+<a href="https://www.instagram.com/spectualmusic">
+  <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
 </a>
 </p>
 
@@ -37,4 +39,6 @@ fields_of_interests:
 currently_learning: ["sql, react, java, algorithm"]
 hobbies: ["Electronic music", "AIGC", "Vinyl collection"]
 ```
+
+![Snake animation](https://github.com/Spectual/Spectual/blob/output/github-contribution-grid-snake.svg)
 
