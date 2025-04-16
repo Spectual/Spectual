@@ -1,16 +1,33 @@
-## Hi there 👋
 
-<!--
-**Spectual/Spectual** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=Hello!&fontSize=90&)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h1 align="center">
+  In debug we trust🧑🏻‍💻
+</h1>
+
+---
+
+<h2> 💽 &nbsp;About Me</h2>
+
+```yaml
+name: Eric B
+located_in: Boston, MA
+education:
+  [
+    "Master's in Computer Science",
+    "Bachelor's in Artificial Intelligence",
+  ]
+
+fields_of_interests:
+  [
+    "Data Science",
+    "Machine Learning",
+    "Deep Learning",
+    "LLM Application"
+  ]
+  
+currently_learning: ["sql, react, java, algorithm"]
+hobbies: ["Electronic music", "AIGC", "Vinyl collection"]
+```
+
