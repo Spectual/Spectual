@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=Hello%20Bugs!&fontColor=EEEEEE)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=Hello%20Bugs!&fontColor=DDDDDD)
 
 <h1 align="center">
   In debug we trust🧑🏻‍💻
@@ -9,10 +9,13 @@
 </a>
 <a href="https://www.instagram.com/spectualmusic">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
-<a href="https://www.instagram.com/spectualmusic">
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
+<a href="https://y.music.163.com/m/user?id=277384486">
+  <img height="50" src="https://cdn.simpleicons.org/neteasecloudmusic/D43C33" />
 </a>
 </p>
+
+
+
 
 
 ---
@@ -45,4 +48,3 @@ hobbies: ["Electronic music", "AIGC", "Vinyl collection"]
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/Spectual/Spectual/blob/output/github-contribution-grid-snake.svg" />
   <img alt="github-snake" src="https://github.com/Spectual/Spectual/blob/output/github-contribution-grid-snake.svg" />
 </picture>
-
