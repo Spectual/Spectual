@@ -36,13 +36,12 @@ education:
 
 fields_of_interests:
   [
-    "Data Science",
     "Machine Learning",
     "Deep Learning",
     "LLM Application"
   ]
   
-currently_learning: ["sql, react, java, algorithm"]
+currently_learning: ["LLM Agent, Stanford-cs336, AWS, database"]
 hobbies: ["Electronic music", "AIGC", "Vinyl collection"]
 ```
 
