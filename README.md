@@ -1,7 +1,14 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=Hello%20Bugs!)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Spectual/Spectual/blob/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Spectual/Spectual/blob/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://github.com/Spectual/Spectual/blob/output/github-contribution-grid-snake.svg" />
+</picture>
+
+<!---![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=Hi%20I'm%20Spectual!)
+-->
 
 <h1 align="center">
-  In debug we trust🧑🏻‍💻
+  Hi, I'm Eric🧑🏻‍💻
 </h1>
 <p align='center'>
 <a href="https://www.linkedin.com/in/yifei-bao-916018346">
@@ -45,8 +52,3 @@ currently_learning: ["LLM Agent, Stanford-cs336, AWS, database"]
 hobbies: ["Electronic music", "AIGC", "Vinyl collection"]
 ```
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Spectual/Spectual/blob/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Spectual/Spectual/blob/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://github.com/Spectual/Spectual/blob/output/github-contribution-grid-snake.svg" />
-</picture>
