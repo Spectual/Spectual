@@ -1,14 +1,7 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Spectual/Spectual/blob/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Spectual/Spectual/blob/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://github.com/Spectual/Spectual/blob/output/github-contribution-grid-snake.svg" />
-</picture>
-
-<!---![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=Hi%20I'm%20Spectual!)
--->
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=Hi%20I'm%20Eric!)
 
 <h1 align="center">
-  Hi, I'm Eric🧑🏻‍💻
+  I chose not to choose life.
 </h1>
 <p align='center'>
 <a href="https://www.linkedin.com/in/yifei-bao-916018346">
@@ -24,7 +17,11 @@
 </p>
 
 
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Spectual/Spectual/blob/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Spectual/Spectual/blob/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://github.com/Spectual/Spectual/blob/output/github-contribution-grid-snake.svg" />
+</picture>
 
 
 
