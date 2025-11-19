@@ -46,6 +46,6 @@ fields_of_interests:
   ]
   
 currently_learning: ["LLM Agent, Stanford-cs336, AWS, database"]
-hobbies: ["Electronic music", "AIGC", "Vinyl collection"]
+hobbies: ["DJing", "Electronic music", "AIGC", "Vinyl collection"]
 ```
 
